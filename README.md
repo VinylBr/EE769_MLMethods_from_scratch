@@ -17,6 +17,8 @@
 - seaborn
 - matplotlib
 
+## Data
+Generated the data for regression and classification with user-defined variance
 
 
 ### Sources of inspiration
