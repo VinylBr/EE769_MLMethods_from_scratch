@@ -12,37 +12,37 @@
 
 ### Sources of inspiration
 
-Inspirational sources
 
-    https://stackoverflow.com/questions/13539968/how-can-i-find-the-dimensions-of-a-matrix-in-python
 
-    https://numpy.org/doc/stable/reference/generated/numpy.matmul.html#numpy.matmul
+https://stackoverflow.com/questions/13539968/how-can-i-find-the-dimensions-of-a-matrix-in-python
 
-    https://github.com/heena-sharma-sys/Machine-Learning/blob/main/Blog/LogisticRegressionFromScratch.ipynb
+https://numpy.org/doc/stable/reference/generated/numpy.matmul.html#numpy.matmul
 
-    https://github.com/MadhumithaKannan/linear-regression-using-only-numpy
+https://github.com/heena-sharma-sys/Machine-Learning/blob/main/Blog/LogisticRegressionFromScratch.ipynb
 
-    https://numpy.org/doc/stable/reference/generated/numpy.linalg.multi_dot.html
+https://github.com/MadhumithaKannan/linear-regression-using-only-numpy
 
-    ChatGPT, https://chat.openai.com/
+https://numpy.org/doc/stable/reference/generated/numpy.linalg.multi_dot.html
 
-    https://www.geeksforgeeks.org/g-fact-41-multiple-return-values-in-python/
+ChatGPT, https://chat.openai.com/
 
-    https://www.geeksforgeeks.org/how-to-split-data-into-training-and-testing-in-python-without-sklearn/
+https://www.geeksforgeeks.org/g-fact-41-multiple-return-values-in-python/
 
-    https://numpy.org/doc/stable/reference/generated/numpy.split.html
+https://www.geeksforgeeks.org/how-to-split-data-into-training-and-testing-in-python-without-sklearn/
 
-    https://medium.com/@Suraj_Yadav/compute-performance-metrics-from-scratch-53025140fe1d
+https://numpy.org/doc/stable/reference/generated/numpy.split.html
 
-    https://stackoverflow.com/questions/32827269/adding-columns-to-matrix-in-python
+https://medium.com/@Suraj_Yadav/compute-performance-metrics-from-scratch-53025140fe1d
 
-    https://realpython.com/python-enumerate/
+https://stackoverflow.com/questions/32827269/adding-columns-to-matrix-in-python
 
-    https://aleksandarhaber.com/scatter-plots-for-classification-problems-in-python-and-scikit-learn/
+https://realpython.com/python-enumerate/
 
-    https://stackoverflow.com/questions/22294241/plotting-a-decision-boundary-separating-2-classes-using-matplotlibs-pyplot
+https://aleksandarhaber.com/scatter-plots-for-classification-problems-in-python-and-scikit-learn/
 
-    https://stackoverflow.com/questions/41153317/add-text-next-to-vertical-line-in-matplotlib
+https://stackoverflow.com/questions/22294241/plotting-a-decision-boundary-separating-2-classes-using-matplotlibs-pyplot
 
-    https://inria.github.io/scikit-learn-mooc/overfit/learning_validation_curves_slides.html
+https://stackoverflow.com/questions/41153317/add-text-next-to-vertical-line-in-matplotlib
+
+https://inria.github.io/scikit-learn-mooc/overfit/learning_validation_curves_slides.html
 
