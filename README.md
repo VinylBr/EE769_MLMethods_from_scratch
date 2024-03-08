@@ -20,6 +20,8 @@
 ## Data
 Generated the data for regression and classification with user-defined variance
 
+### Future work
+Code Adam Optimizer from scratch. Use inspiration from https://towardsdatascience.com/the-math-behind-adam-optimizer-c41407efe59b
 
 ### Sources of inspiration
 
