@@ -16,6 +16,7 @@
 - time
 - seaborn
 - matplotlib
+- tqdm
 
 ## Data
 Generated the data for regression and classification with user-defined variance
