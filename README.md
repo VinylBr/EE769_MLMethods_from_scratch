@@ -1,4 +1,4 @@
-# EE769:Introduction of Machine Learning | Methods from scratch
+# EE769: Introduction of Machine Learning | Methods from scratch
 
 ## Overview of the project
 ### Linear and Logistic Regression
