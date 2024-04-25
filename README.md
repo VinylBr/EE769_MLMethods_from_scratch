@@ -33,17 +33,11 @@ Code Adam Optimizer from scratch. Use inspiration from https://towardsdatascienc
 
 ## Sources of inspiration
 
-https://stackoverflow.com/questions/13539968/how-can-i-find-the-dimensions-of-a-matrix-in-python
-
-https://numpy.org/doc/stable/reference/generated/numpy.matmul.html#numpy.matmul
-
 https://github.com/heena-sharma-sys/Machine-Learning/blob/main/Blog/LogisticRegressionFromScratch.ipynb
 
 https://github.com/MadhumithaKannan/linear-regression-using-only-numpy
 
 https://www.geeksforgeeks.org/how-to-split-data-into-training-and-testing-in-python-without-sklearn/
-
-https://numpy.org/doc/stable/reference/generated/numpy.split.html
 
 https://medium.com/@Suraj_Yadav/compute-performance-metrics-from-scratch-53025140fe1d
 
